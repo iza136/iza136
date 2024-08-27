@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**iza136/iza136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou a izabela 🖤
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante 🌼
+
+
+Estou no ensino médio
+
+
+E estou começando no github 🎠 📚
+
+![](https://media1.tenor.com/m/AYtg8zL2xncAAAAC/spongebob-squarepants-squidward.gif)
+![](https://media.tenor.com/FVEraBahI0AAAAAi/squidward-squidward-meme.gif)
